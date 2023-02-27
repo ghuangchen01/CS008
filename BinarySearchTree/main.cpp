@@ -7,7 +7,7 @@ int main() {
         tree.push(i);
     }
     A a;
-    tree.preorder(&A::f,a);
+    tree.preorder(&A::hello,a);
     //not yet finished
 
     return 0;

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cs8_spring23_sfml_calculator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\opt\;CMake Files\..\..\..\..\..\..\opt\homebrew\;CMake Files\..\..\..\..\..\..\opt\homebrew\lib\;CMake Files\..\..\..\..\..\..\opt\homebrew\lib\cmake\;CMake Files\..\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs8_spring23_sfml_calculator">
+				<Option output="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/cs8_spring23_sfml_calculator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs8_spring23_sfml_calculator"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs8_spring23_sfml_calculator/fast">
+				<Option output="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/cs8_spring23_sfml_calculator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs8_spring23_sfml_calculator/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Application.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Application.h">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Base.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Base.h">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Button.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Button.h">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Calculator.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Calculator.h">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Font.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Font.h">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Helper.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Helper.h">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/MouseEvent.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/MouseEvent.h">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/RPN.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/RPN.h">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Screen.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Screen.h">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/main.cpp">
+			<Option target="cs8_spring23_sfml_calculator"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/../../../../../../opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/../../../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/../../../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/../../../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/../../../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

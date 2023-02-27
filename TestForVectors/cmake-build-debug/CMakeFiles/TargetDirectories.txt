@@ -1,0 +1,3 @@
+/Users/guan/Desktop/current classes/CS008/TestForVectors/cmake-build-debug/CMakeFiles/TestForVectors.dir
+/Users/guan/Desktop/current classes/CS008/TestForVectors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guan/Desktop/current classes/CS008/TestForVectors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

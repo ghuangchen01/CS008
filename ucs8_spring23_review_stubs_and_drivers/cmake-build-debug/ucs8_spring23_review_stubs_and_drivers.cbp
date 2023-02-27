@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ucs8_spring23_review_stubs_and_drivers"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ucs8_spring23_review_stubs_and_drivers">
+				<Option output="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/ucs8_spring23_review_stubs_and_drivers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 ucs8_spring23_review_stubs_and_drivers"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ucs8_spring23_review_stubs_and_drivers/fast">
+				<Option output="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/ucs8_spring23_review_stubs_and_drivers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 ucs8_spring23_review_stubs_and_drivers/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/guan/Desktop/current\ classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Accuracy.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Accuracy.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Hangman.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Hangman.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Logic.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Logic.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/NoWordException.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/NoWordException.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Opening.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Opening.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/States.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/States.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Tests.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Tests.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/UserInput.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/UserInput.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Visuals.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Visuals.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Word.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Word.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Wordbank.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/Wordbank.h">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/main.cpp">
+			<Option target="ucs8_spring23_review_stubs_and_drivers"/>
+		</Unit>
+		<Unit filename="/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

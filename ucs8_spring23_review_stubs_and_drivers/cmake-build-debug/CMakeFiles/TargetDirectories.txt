@@ -1,0 +1,3 @@
+/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/CMakeFiles/ucs8_spring23_review_stubs_and_drivers.dir
+/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guan/Desktop/current classes/CS008/ucs8_spring23_review_stubs_and_drivers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

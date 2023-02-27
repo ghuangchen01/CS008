@@ -1,0 +1,11 @@
+this is a project that simulate a progress of user creating username and password storing to a link list
+
+the program starting with asking user for username
+
+then would ask for password
+
+the program would store the information into the link list
+
+print out the link list with current username and password
+
+would ask the user if want to continue or stop using

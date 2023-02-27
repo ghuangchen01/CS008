@@ -1,0 +1,23 @@
+# ninja log v5
+194	222	1675804336426343189	LinkList	ce60735f8ee071f4
+1	194	1675804336397609151	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+1	184	1675804336385803914	CMakeFiles/LinkList.dir/LinkList.cpp.o	615e0445cf3d2f17
+4	331	1675849991532854118	CMakeFiles/LinkList.dir/LinkList.cpp.o	615e0445cf3d2f17
+4	343	1675849991546768988	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+2	219	1675879442217016617	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+2	195	1675879947669711767	CMakeFiles/LinkList.dir/LinkList.cpp.o	615e0445cf3d2f17
+1	201	1675879947676935650	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+2	188	1675880255712101967	CMakeFiles/LinkList.dir/LinkList.cpp.o	615e0445cf3d2f17
+2	190	1675880255715234929	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+2	287	1675880501670955317	CMakeFiles/LinkList.dir/LinkList.cpp.o	615e0445cf3d2f17
+1	292	1675880501676573066	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+1	185	1675880530974303257	CMakeFiles/LinkList.dir/LinkList.cpp.o	615e0445cf3d2f17
+1	187	1675880530976926507	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+2	190	1675884360298719970	CMakeFiles/LinkList.dir/LinkList.cpp.o	615e0445cf3d2f17
+2	197	1675884360306398906	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+2	74	1675884378888576713	CMakeFiles/LinkList.dir/Iterator.cpp.o	25305d67c87e26e9
+2	185	1675884379000288740	CMakeFiles/LinkList.dir/LinkList.cpp.o	615e0445cf3d2f17
+2	187	1675884379003043788	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+188	223	1675884379040085505	LinkList	557756d3c0b7963b
+1	219	1675933122586449797	CMakeFiles/LinkList.dir/main.cpp.o	c9f2e555cee7231c
+220	247	1675933122615478459	LinkList	557756d3c0b7963b

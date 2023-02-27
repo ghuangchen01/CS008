@@ -9,7 +9,7 @@
 
 class A {
 public:
-    void f(int& data);
+    void hello(int& data);
 };
 
 
