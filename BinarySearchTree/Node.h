@@ -4,7 +4,7 @@
 
 #ifndef BINARYSEARCHTREE_NODE_H
 #define BINARYSEARCHTREE_NODE_H
-
+//not finished
 template<typename T>
 struct Node{
     T data;

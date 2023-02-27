@@ -4,6 +4,7 @@
 #ifndef BINARYSEARCHTREE_BINARYSEARCHTREE_CPP
 #define BINARYSEARCHTREE_BINARYSEARCHTREE_CPP
 #include "BinarySearchTree.h"
+//not finished
 template<typename T>
 BinarySearchTree<T>::BinarySearchTree() {
 

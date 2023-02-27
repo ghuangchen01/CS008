@@ -3,6 +3,7 @@
 //
 
 #include "A.h"
+//finished
 
 void A::f(int &data) {
     std::cout<<data<<" ";

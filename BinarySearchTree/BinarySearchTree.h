@@ -5,6 +5,7 @@
 #ifndef BINARYSEARCHTREE_BINARYSEARCHTREE_H
 #define BINARYSEARCHTREE_BINARYSEARCHTREE_H
 #include "Node.h"
+//not finished
 template <typename T>
 class BinarySearchTree {
 private:
