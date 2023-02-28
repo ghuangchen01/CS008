@@ -9,11 +9,24 @@
 template <typename T>
 class BinarySearchTree {
 private:
+    //preorder starts
     void preorder(Node<T>* node, void(*f)(T&));
 
     template<typename S>
     void preorder(Node<T>* node, void (S::*f)(T&),S& obj);
+    //preorder ends
+    //inorder starts
+    void inorder(Node<T>* node, void(*f)(T&));
 
+    template<typename S>
+    void inorder(Node<T>* node, void (S::*f)(T&),S& obj);
+    //inorder ends
+    //postorder starts
+    void postorder(Node<T>* node, void(*f)(T&));
+
+    template<typename S>
+    void postorder(Node<T>* node, void (S::*f)(T&),S& obj);
+    //postorder ends
     void push(Node<T>* &node,const T& data);
 public:
     Node<T>* root = nullptr;
@@ -25,14 +38,29 @@ public:
     void deleteNode(Node<T>* &node);
 
     void operator=(const BinarySearchTree& tree);
+
+    void operator+=(const T& data);
     //default output function
     void output(T& data);
     //traversal
+    //preorder starts
     void preorder(void (*f)(T&));
 
     template<typename S>
     void preorder(void (S::*f)(T&),S& obj);
+    //preorder ends
+    //inorder starts
+    void inorder(void (*f)(T&));
 
+    template<typename S>
+    void inorder(void (S::*f)(T&),S& obj);
+    //inorder ends
+    //postorder starts
+    void postorder(void (*f)(T&));
+
+    template<typename S>
+    void postorder(void (S::*f)(T&),S& obj);
+    //postorder ends
     void push(const T& data);
 };
 #include "BinarySearchTree.cpp"

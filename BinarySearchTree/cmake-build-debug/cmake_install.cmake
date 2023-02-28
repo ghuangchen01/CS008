@@ -1,4 +1,4 @@
-# Install script for directory: /Users/guan/Desktop/CS008/BinarySearchTree
+# Install script for directory: /Users/guan/Desktop/current classes/CS008/BinarySearchTree
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/guan/Desktop/CS008/BinarySearchTree/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/guan/Desktop/current classes/CS008/BinarySearchTree/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

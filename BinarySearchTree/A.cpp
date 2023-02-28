@@ -5,6 +5,6 @@
 #include "A.h"
 //finished
 
-void A::hello(int &data) {
+void A::f(int &data) {
     std::cout<<data<<" ";
 }
