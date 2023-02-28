@@ -18,12 +18,14 @@ private:
     Screen screen;
     RPN rpn;
     void setPosition(Button& button,int i,int j);
-    std::vector<double>;
+    std::vector<std::string> number;
+    std::vector<std::string> oper;
 public:
     Calculator();
     Button& calculatorClicked(const sf::RenderWindow &window);
     virtual void draw(sf::RenderTarget& window, sf::RenderStates states) const;
     void calculatorAction(const sf::RenderWindow &window,bool& alreadyClicked);
+    bool isNum(std::string num);
 };
 
 

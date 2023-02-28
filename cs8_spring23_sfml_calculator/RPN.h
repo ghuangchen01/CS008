@@ -5,10 +5,11 @@
 #ifndef CS8_SPRING23_SFML_CALCULATOR_RPN_H
 #define CS8_SPRING23_SFML_CALCULATOR_RPN_H
 #include <iostream>
-
+#include <vector>
 class RPN {
 public:
-    void calculation(std::vector<double> &num, std::vector<std::string> &oper);
+    RPN();
+    void calculation(std::vector<std::string> &num, std::vector<std::string> &oper);
 };
 
 

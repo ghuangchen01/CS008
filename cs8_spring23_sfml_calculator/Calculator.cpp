@@ -24,6 +24,8 @@ Calculator::Calculator() {
             num++;
         }
     }
+    number.push_back("0");
+    screen.setText(number.front());
 }
 
 void Calculator::setPosition(Button& button,int i, int j) {
@@ -62,8 +64,49 @@ Button& Calculator::calculatorClicked(const sf::RenderWindow &window) {
 
 void Calculator::calculatorAction(const sf::RenderWindow &window,bool& alreadyClicked) {
     if(MouseEvent::isClicked(calculatorClicked(window),window)){
-        if(calculatorClicked(window).getText() == "C") {
-            screen.reset();
+        if(isNum(calculatorClicked(window).getText())){
+            if(number.back()=="0"){
+                number.pop_back();
+                number.push_back(calculatorClicked(window).getText());
+            }else if(oper.back()==","){
+                oper.pop_back();
+                number.pop_back();
+                number.push_back(calculatorClicked(window).getText());
+            } else{
+                number.back() = number.back() + calculatorClicked(window).getText();
+            }
+            screen.setText(number.back());
+        }else{
+            std::string tempOper = "";
+            if(calculatorClicked(window).getText() == "C") {
+                screen.reset();
+                while (!number.empty()){
+                    number.pop_back();
+                }
+                number.push_back("0");
+                while (!oper.empty()){
+                    oper.pop_back();
+                }
+            } else if(calculatorClicked(window).getText() == "="){
+                rpn.calculation(number,oper);
+            } else if(calculatorClicked(window).getText() == "%"|| calculatorClicked(window).getText() == "+/-"){
+                oper.push_back(calculatorClicked(window).getText());
+                rpn.calculation(number,oper);
+            }else{
+                if(oper.size()>0){
+                    rpn.calculation(number,oper);
+                    tempOper = oper.back();
+                    oper.pop_back();
+                    std::cout<<"here\n";
+                }else{
+                    number.push_back("");
+                }
+                oper.push_back(calculatorClicked(window).getText());
+                if(tempOper!=""){
+                    oper.push_back(tempOper);
+                }
+            }
+            screen.setText(number.back());
         }
 
 //        if(calculatorClicked(window).getText()=="+"||calculatorClicked(window).getText()=="-"||calculatorClicked(window).getText()=="x"||calculatorClicked(window).getText()=="/") {
@@ -89,4 +132,11 @@ void Calculator::calculatorAction(const sf::RenderWindow &window,bool& alreadyCl
 //            }
         alreadyClicked = true;
     }
+}
+
+bool Calculator::isNum(std::string num) {
+    if(isdigit(num[0])){
+        return true;
+    }
+    return false;
 }

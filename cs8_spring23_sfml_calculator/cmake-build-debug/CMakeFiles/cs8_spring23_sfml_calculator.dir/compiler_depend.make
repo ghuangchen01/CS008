@@ -3452,7 +3452,9 @@ CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o: /Users/guan/Desktop/curre
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/RPN.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/Screen.cpp \
   /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/Screen.h \

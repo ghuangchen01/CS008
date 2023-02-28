@@ -19,6 +19,7 @@ public:
     std::string getText();
     virtual void draw(sf::RenderTarget& window,sf::RenderStates states) const;
     void reset();
+    std::string noZeros(const std::string& text);
 };
 
 

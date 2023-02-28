@@ -12,8 +12,8 @@ Screen::Screen() {
 }
 
 void Screen::setText(std::string text) {
-    std::string word = this->text.getString() + text;
-    this->text.setString(word);
+//    std::string word = this->text.getString() + text;
+    this->text.setString(noZeros(text));
     setPosition();
     this->x = 400;
 }
@@ -39,4 +39,15 @@ std::string Screen::getText() {
 
 void Screen::draw(sf::RenderTarget &window, sf::RenderStates states) const {
     window.draw(text);
+}
+
+std::string Screen::noZeros(const std::string &text) {
+    std::string word = text;
+    while (word.back() == '0'&&word.size()>1){
+        word.pop_back();
+        if(word.back() == '.'){
+            word.pop_back();
+        }
+    }
+    return word;
 }
