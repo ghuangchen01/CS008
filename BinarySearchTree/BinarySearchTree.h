@@ -5,7 +5,8 @@
 #ifndef BINARYSEARCHTREE_BINARYSEARCHTREE_H
 #define BINARYSEARCHTREE_BINARYSEARCHTREE_H
 #include "Node.h"
-//not finished
+#include <queue>
+
 template <typename T>
 class BinarySearchTree {
 private:
@@ -28,8 +29,8 @@ private:
     void postorder(Node<T>* node, void (S::*f)(T&),S& obj);
     //postorder ends
     void push(Node<T>* &node,const T& data);
-public:
     Node<T>* root = nullptr;
+public:
     BinarySearchTree();
     BinarySearchTree(const T& data);
     BinarySearchTree(const BinarySearchTree& tree);
@@ -62,6 +63,9 @@ public:
     void postorder(void (S::*f)(T&),S& obj);
     //postorder ends
     void push(const T& data);
+
+    template<typename S>
+    void BFS(void (S::*f)(T&),S& obj);
 };
 #include "BinarySearchTree.cpp"
 

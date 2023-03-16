@@ -158,4 +158,21 @@ void BinarySearchTree<T>::postorder(void (S::*f)(T &), S &obj) {
     postorder(root,f,obj);
 }
 
+template<typename T>
+template<typename S>
+void BinarySearchTree<T>::BFS(void (S::*f)(T &), S &obj) {
+    std::queue<Node<T>*> q;
+    q.push(root);
+    while (!q.empty()){
+        if(q.front()->left){
+            q.push(q.front()->left);
+        }
+        if(q.front()->right){
+            q.push(q.front()->right);
+        }
+        (obj.*f)(q.front()->data);
+        q.pop();
+    }
+}
+
 #endif

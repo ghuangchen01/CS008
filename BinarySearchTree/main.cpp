@@ -22,6 +22,7 @@ int main() {
     tree.inorder(&A::f,a);
     std::cout<<"\npostorder:"<<std::endl;
     tree.postorder(&A::f,a);
-
+    std::cout<<"\nBreadth First Search: \n";
+    tree.BFS(&A::f,a);
     return 0;
 }

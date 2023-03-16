@@ -1,0 +1,3 @@
+/Users/guan/Desktop/current classes/CS008/MultiText/cmake-build-debug/CMakeFiles/MultiText.dir
+/Users/guan/Desktop/current classes/CS008/MultiText/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guan/Desktop/current classes/CS008/MultiText/cmake-build-debug/CMakeFiles/rebuild_cache.dir
