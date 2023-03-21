@@ -20,76 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bbbfa0b-3a3f-46f3-b82c-99e8c46d51b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../typingProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/Cursor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/Cursor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/.cmake/api/v1/reply/cache-v2-edf3d2b36b2de23b18e3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-064d639e78b694cbf348.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7d7d93cd80d09cb54afd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-20T10-05-48-0820.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/.cmake/api/v1/reply/target-typingProject-Debug-ec49685349630efe3a2a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/Application.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/Body.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/Cursor.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/Font.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/GUIComponent.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/PageElement.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/TextBox.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/fonts/Font.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/main.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/typing/MultiText.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/typing/Typing.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/typing/letter.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/window/Application.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/window/GUIComponent.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/window/PageElement.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/CMakeFiles/typingProject.dir/window/TextBox.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/cmake-build-debug/typingProject" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/fonts/Font.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/fonts/Font.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/fonts/OpenSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/typing/MultiText.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/typing/MultiText.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/typing/Typing.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/typing/Typing.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/typing/letter.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/typing/letter.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/window/Application.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/window/Application.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/window/GUIComponent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/window/GUIComponent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/window/PageElement.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/window/PageElement.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/window/TextBox.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typingProject/window/TextBox.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9c727dfbbae661a64bab.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-02T21-14-14-0325.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-MultiText-Debug-9c772026bd3b422bff0f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MultiText.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MultiText.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MultiText" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/MultiText" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textBox.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/textBox.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SFMLTutorial/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-22T19-02-09-0521.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SFMLTutorial/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../SFMLTutorial/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SFMLTutorial/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../SFMLTutorial/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SFMLTutorial/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SFMLTutorial/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TypingSFML/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-01T01-06-57-0393.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TypingSFML/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../TypingSFML/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TypingSFML/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../TypingSFML/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TypingSFML/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../TypingSFML/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-    </list>
+    <list default="true" id="7bbbfa0b-3a3f-46f3-b82c-99e8c46d51b1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
