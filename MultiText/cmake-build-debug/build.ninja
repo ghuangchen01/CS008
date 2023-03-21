@@ -81,13 +81,6 @@ build CMakeFiles/MultiText.dir/GUIComponent.cpp.o: CXX_COMPILER__MultiText_Debug
   OBJECT_DIR = CMakeFiles/MultiText.dir
   OBJECT_FILE_DIR = CMakeFiles/MultiText.dir
 
-build CMakeFiles/MultiText.dir/textBox.cpp.o: CXX_COMPILER__MultiText_Debug /Users/guan/Desktop/current$ classes/CS008/MultiText/textBox.cpp || cmake_object_order_depends_target_MultiText
-  DEP_FILE = CMakeFiles/MultiText.dir/textBox.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -isystem /opt/homebrew/include
-  OBJECT_DIR = CMakeFiles/MultiText.dir
-  OBJECT_FILE_DIR = CMakeFiles/MultiText.dir
-
 build CMakeFiles/MultiText.dir/Typing.cpp.o: CXX_COMPILER__MultiText_Debug /Users/guan/Desktop/current$ classes/CS008/MultiText/Typing.cpp || cmake_object_order_depends_target_MultiText
   DEP_FILE = CMakeFiles/MultiText.dir/Typing.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
@@ -110,7 +103,7 @@ build CMakeFiles/MultiText.dir/Application.cpp.o: CXX_COMPILER__MultiText_Debug 
 #############################################
 # Link the executable MultiText
 
-build MultiText: CXX_EXECUTABLE_LINKER__MultiText_Debug CMakeFiles/MultiText.dir/main.cpp.o CMakeFiles/MultiText.dir/letter.cpp.o CMakeFiles/MultiText.dir/MultiText.cpp.o CMakeFiles/MultiText.dir/Font.cpp.o CMakeFiles/MultiText.dir/GUIComponent.cpp.o CMakeFiles/MultiText.dir/textBox.cpp.o CMakeFiles/MultiText.dir/Typing.cpp.o CMakeFiles/MultiText.dir/Application.cpp.o | /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib /opt/homebrew/lib/libsfml-audio.2.5.1.dylib /opt/homebrew/lib/libsfml-window.2.5.1.dylib /opt/homebrew/lib/libsfml-system.2.5.1.dylib
+build MultiText: CXX_EXECUTABLE_LINKER__MultiText_Debug CMakeFiles/MultiText.dir/main.cpp.o CMakeFiles/MultiText.dir/letter.cpp.o CMakeFiles/MultiText.dir/MultiText.cpp.o CMakeFiles/MultiText.dir/Font.cpp.o CMakeFiles/MultiText.dir/GUIComponent.cpp.o CMakeFiles/MultiText.dir/Typing.cpp.o CMakeFiles/MultiText.dir/Application.cpp.o | /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib /opt/homebrew/lib/libsfml-audio.2.5.1.dylib /opt/homebrew/lib/libsfml-window.2.5.1.dylib /opt/homebrew/lib/libsfml-system.2.5.1.dylib
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
   LINK_LIBRARIES = -Wl,-rpath,/opt/homebrew/lib  /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib  /opt/homebrew/lib/libsfml-audio.2.5.1.dylib  /opt/homebrew/lib/libsfml-window.2.5.1.dylib  /opt/homebrew/lib/libsfml-system.2.5.1.dylib
   OBJECT_DIR = CMakeFiles/MultiText.dir
