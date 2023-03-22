@@ -20,7 +20,30 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bbbfa0b-3a3f-46f3-b82c-99e8c46d51b1" name="Changes" comment="" />
+    <list default="true" id="7bbbfa0b-3a3f-46f3-b82c-99e8c46d51b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Heap/Heap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/Heap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d4140a2a483ddde10d93.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0e60c3f4e66a201e768a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-22T09-49-54-0780.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/.cmake/api/v1/reply/target-Heap-Debug-cee4333fa292d1f1f62a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/CMakeFiles/Heap.dir/Heap.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/CMakeFiles/Heap.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/Heap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Heap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Heap/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c23ee3d3f54e215a0d9e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2263e4b6f6324d648056.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-21T17-11-33-0818.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/cmake-build-debug/.cmake/api/v1/reply/target-Heap-Debug-2e8b3f0eddaf6d4f178b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Heap/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Heap/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
