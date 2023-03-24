@@ -1,11 +1,11 @@
 //
-// Created by Guanhao Huang Chen on 3/21/23.
+// Created by Guanhao Huang Chen on 3/23/23.
 //
 
-#ifndef HEAP_HEAP_CPP
-#define HEAP_HEAP_CPP
-#include "Heap.h"
+#ifndef AUTOCORRECT_HEAP_CPP
+#define AUTOCORRECT_HEAP_CPP
 
+#include "Heap.h"
 template<typename T>
 Heap<T>::Heap() {
 
@@ -102,5 +102,4 @@ template<typename T>
 void Heap<T>::operator+=(const T &item) {
     push(item);
 }
-
 #endif

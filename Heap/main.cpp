@@ -1,13 +1,14 @@
 
 #include <iostream>
 #include "Heap.h"
+
 int main() {
     Heap<int> heap;
-    for(int i = 0;i<10;i++){
-        int r = rand()%100;
+    for(int i = 0;i<100;i++){
+        int r = rand()%3;
         heap.push(r);
     }
-    heap+=500;
+    heap+=3;
     while (!heap.empty()){
         std::cout<<heap.top()<<" ";
         heap.pop();
