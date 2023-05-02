@@ -1,0 +1,3 @@
+/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/cmake-build-debug/CMakeFiles/TypingProjectSFML_new_.dir
+/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

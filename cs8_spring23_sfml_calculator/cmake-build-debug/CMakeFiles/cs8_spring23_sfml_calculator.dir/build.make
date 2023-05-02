@@ -73,141 +73,141 @@ CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o: CMakeFiles/cs8_spring23_
 CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/main.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/main.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/main.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/main.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/main.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/main.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/main.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/main.cpp.s
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/flags.make
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/Base.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Base.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Base.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Base.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Base.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Base.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Base.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Base.cpp.s
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/flags.make
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/Button.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Button.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Button.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Button.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Button.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Button.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Button.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Button.cpp.s
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/flags.make
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/Screen.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Screen.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Screen.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Screen.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Screen.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Screen.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Screen.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Screen.cpp.s
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/flags.make
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/Calculator.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Calculator.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Calculator.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Calculator.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Calculator.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Calculator.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Calculator.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Calculator.cpp.s
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/flags.make
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/Font.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Font.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Font.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Font.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Font.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Font.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Font.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Font.cpp.s
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/flags.make
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/Helper.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Helper.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Helper.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Helper.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Helper.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Helper.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Helper.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Helper.cpp.s
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/flags.make
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/Application.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Application.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Application.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Application.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Application.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Application.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/Application.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/Application.cpp.s
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/flags.make
 CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/MouseEvent.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/MouseEvent.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/MouseEvent.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/MouseEvent.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/MouseEvent.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/MouseEvent.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/MouseEvent.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/MouseEvent.cpp.s
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/flags.make
 CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o: /Users/guan/Desktop/current\ classes/CS008/cs8_spring23_sfml_calculator/RPN.cpp
 CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o: CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/RPN.cpp"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o -MF CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o.d -o CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.o -c "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/RPN.cpp"
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/RPN.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/RPN.cpp" > CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.i
 
 CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/RPN.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/guan/Desktop/current classes/CS008/cs8_spring23_sfml_calculator/RPN.cpp" -o CMakeFiles/cs8_spring23_sfml_calculator.dir/RPN.cpp.s
 
 # Object files for target cs8_spring23_sfml_calculator
 cs8_spring23_sfml_calculator_OBJECTS = \

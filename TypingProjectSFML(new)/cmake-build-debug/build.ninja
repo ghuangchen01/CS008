@@ -1,0 +1,232 @@
+## This file contains all the build statements describing the
+# compilation DAG.
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# 
+# Which is the root file.
+# =============================================================================
+
+# =============================================================================
+# Project: TypingProjectSFML_new_
+# Configurations: Debug
+# =============================================================================
+
+#############################################
+# Minimal version of Ninja required by this file
+
+ninja_required_version = 1.5
+
+
+#############################################
+# Set configuration variable for custom commands.
+
+CONFIGURATION = Debug
+# =============================================================================
+# Include auxiliary files.
+
+
+#############################################
+# Include rules file.
+
+include CMakeFiles/rules.ninja
+
+# =============================================================================
+
+#############################################
+# Logical path to working directory; prefix for absolute paths.
+
+cmake_ninja_workdir = /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/cmake-build-debug/
+# =============================================================================
+# Object build statements for EXECUTABLE target TypingProjectSFML_new_
+
+
+#############################################
+# Order-only phony target for TypingProjectSFML_new_
+
+build cmake_object_order_depends_target_TypingProjectSFML_new_: phony || CMakeFiles/TypingProjectSFML_new_.dir
+
+build CMakeFiles/TypingProjectSFML_new_.dir/fonts/Font.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/fonts/Font.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/fonts/Font.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/fonts
+
+build CMakeFiles/TypingProjectSFML_new_.dir/typing/letter.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/typing/letter.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/typing/letter.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/typing
+
+build CMakeFiles/TypingProjectSFML_new_.dir/typing/MultiText.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/typing/MultiText.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/typing/MultiText.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/typing
+
+build CMakeFiles/TypingProjectSFML_new_.dir/typing/TextInput.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/typing/TextInput.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/typing/TextInput.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/typing
+
+build CMakeFiles/TypingProjectSFML_new_.dir/window/Application.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/window/Application.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/window/Application.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/window
+
+build CMakeFiles/TypingProjectSFML_new_.dir/window/EventHandler.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/window/EventHandler.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/window/EventHandler.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/window
+
+build CMakeFiles/TypingProjectSFML_new_.dir/window/GUIComponent.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/window/GUIComponent.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/window/GUIComponent.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/window
+
+build CMakeFiles/TypingProjectSFML_new_.dir/window/History.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/window/History.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/window/History.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/window
+
+build CMakeFiles/TypingProjectSFML_new_.dir/window/KeyShortcuts.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/window/KeyShortcuts.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/window/KeyShortcuts.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/window
+
+build CMakeFiles/TypingProjectSFML_new_.dir/window/MouseEvents.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/window/MouseEvents.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/window/MouseEvents.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/window
+
+build CMakeFiles/TypingProjectSFML_new_.dir/window/Snapshot.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/window/Snapshot.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/window/Snapshot.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/window
+
+build CMakeFiles/TypingProjectSFML_new_.dir/window/SnapshotInterface.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/window/SnapshotInterface.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/window/SnapshotInterface.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/window
+
+build CMakeFiles/TypingProjectSFML_new_.dir/window/State.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/window/State.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/window/State.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir/window
+
+build CMakeFiles/TypingProjectSFML_new_.dir/main.cpp.o: CXX_COMPILER__TypingProjectSFML_new__Debug /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/main.cpp || cmake_object_order_depends_target_TypingProjectSFML_new_
+  DEP_FILE = CMakeFiles/TypingProjectSFML_new_.dir/main.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/fonts" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/typing" -I"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/window" -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  OBJECT_FILE_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target TypingProjectSFML_new_
+
+
+#############################################
+# Link the executable TypingProjectSFML_new_
+
+build TypingProjectSFML_new_: CXX_EXECUTABLE_LINKER__TypingProjectSFML_new__Debug CMakeFiles/TypingProjectSFML_new_.dir/fonts/Font.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/typing/letter.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/typing/MultiText.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/typing/TextInput.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/window/Application.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/window/EventHandler.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/window/GUIComponent.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/window/History.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/window/KeyShortcuts.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/window/MouseEvents.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/window/Snapshot.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/window/SnapshotInterface.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/window/State.cpp.o CMakeFiles/TypingProjectSFML_new_.dir/main.cpp.o | /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib /opt/homebrew/lib/libsfml-audio.2.5.1.dylib /opt/homebrew/lib/libsfml-window.2.5.1.dylib /opt/homebrew/lib/libsfml-system.2.5.1.dylib
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2
+  LINK_LIBRARIES = -Wl,-rpath,/opt/homebrew/lib  /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib  /opt/homebrew/lib/libsfml-audio.2.5.1.dylib  /opt/homebrew/lib/libsfml-window.2.5.1.dylib  /opt/homebrew/lib/libsfml-system.2.5.1.dylib
+  OBJECT_DIR = CMakeFiles/TypingProjectSFML_new_.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = TypingProjectSFML_new_
+  TARGET_PDB = TypingProjectSFML_new_.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd "/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build edit_cache: phony CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd "/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)" -B"/Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build rebuild_cache: phony CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Target aliases.
+
+# =============================================================================
+# Folder targets.
+
+# =============================================================================
+
+#############################################
+# Folder: /Users/guan/Desktop/current classes/CS008/TypingProjectSFML(new)/cmake-build-debug
+
+build all: phony TypingProjectSFML_new_
+
+# =============================================================================
+# Built-in targets
+
+
+#############################################
+# Re-run CMake if any of its inputs changed.
+
+build build.ninja: RERUN_CMAKE | /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/UnixPaths.cmake /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/CMakeLists.txt /opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake /opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake /opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake /opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake /opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake
+  pool = console
+
+
+#############################################
+# A missing CMake input file is not an error.
+
+build /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/UnixPaths.cmake /Users/guan/Desktop/current$ classes/CS008/TypingProjectSFML(new)/CMakeLists.txt /opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake /opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake /opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake /opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake /opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake: phony
+
+
+#############################################
+# Clean all the built files.
+
+build clean: CLEAN
+
+
+#############################################
+# Print all primary targets available.
+
+build help: HELP
+
+
+#############################################
+# Make the all target the default.
+
+default all

@@ -1,16 +1,6 @@
 # ninja log v5
 1	377	1676542952563524155	CMakeFiles/ShadowBoxEffect.dir/Color.cpp.o	f8ac33267a7c12e5
-1	381	1676542952567466149	CMakeFiles/ShadowBoxEffect.dir/Font.cpp.o	6a46041d93c7790
-1	390	1676542952577002343	CMakeFiles/ShadowBoxEffect.dir/main.cpp.o	af8f9ede3ef085a9
-1	391	1676542952577770425	CMakeFiles/ShadowBoxEffect.dir/Text.cpp.o	fc0b7839be9270d6
-391	425	1676542952613335161	ShadowBoxEffect	ecf8bf0c42c58e3
-2	280	1676542978400569314	CMakeFiles/ShadowBoxEffect.dir/main.cpp.o	af8f9ede3ef085a9
-280	309	1676542978432127056	ShadowBoxEffect	ecf8bf0c42c58e3
-2	271	1676542991256580865	CMakeFiles/ShadowBoxEffect.dir/main.cpp.o	af8f9ede3ef085a9
-271	298	1676542991285380612	ShadowBoxEffect	ecf8bf0c42c58e3
-2	278	1676543050204350575	CMakeFiles/ShadowBoxEffect.dir/Text.cpp.o	fc0b7839be9270d6
-279	307	1676543050233865196	ShadowBoxEffect	ecf8bf0c42c58e3
-2	250	1676543069879771896	CMakeFiles/ShadowBoxEffect.dir/Text.cpp.o	fc0b7839be9270d6
-250	274	1676543069905934563	ShadowBoxEffect	ecf8bf0c42c58e3
-2	276	1676543083393340796	CMakeFiles/ShadowBoxEffect.dir/Text.cpp.o	fc0b7839be9270d6
 276	304	1676543083423359540	ShadowBoxEffect	ecf8bf0c42c58e3
+1	381	1676542952567466149	CMakeFiles/ShadowBoxEffect.dir/Font.cpp.o	6a46041d93c7790
+2	271	1676542991256580865	CMakeFiles/ShadowBoxEffect.dir/main.cpp.o	af8f9ede3ef085a9
+2	276	1676543083393340796	CMakeFiles/ShadowBoxEffect.dir/Text.cpp.o	fc0b7839be9270d6

@@ -1,0 +1,260 @@
+## This file contains all the build statements describing the
+# compilation DAG.
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# 
+# Which is the root file.
+# =============================================================================
+
+# =============================================================================
+# Project: fileTest
+# Configurations: Debug
+# =============================================================================
+
+#############################################
+# Minimal version of Ninja required by this file
+
+ninja_required_version = 1.5
+
+
+#############################################
+# Set configuration variable for custom commands.
+
+CONFIGURATION = Debug
+# =============================================================================
+# Include auxiliary files.
+
+
+#############################################
+# Include rules file.
+
+include CMakeFiles/rules.ninja
+
+# =============================================================================
+
+#############################################
+# Logical path to working directory; prefix for absolute paths.
+
+cmake_ninja_workdir = /Users/guan/Desktop/current$ classes/CS008/fileTest/cmake-build-debug/
+# =============================================================================
+# Object build statements for EXECUTABLE target fileTest
+
+
+#############################################
+# Order-only phony target for fileTest
+
+build cmake_object_order_depends_target_fileTest: phony || CMakeFiles/fileTest.dir
+
+build CMakeFiles/fileTest.dir/main.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/main.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/main.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir
+
+build CMakeFiles/fileTest.dir/Box.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/Box.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/Box.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir
+
+build CMakeFiles/fileTest.dir/FileTree/FileItem.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/FileTree/FileItem.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/FileTree/FileItem.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/FileTree
+
+build CMakeFiles/fileTest.dir/FileTree/icon/Image.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/FileTree/icon/Image.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/FileTree/icon/Image.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/FileTree/icon
+
+build CMakeFiles/fileTest.dir/window/Helper/Helper.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/Helper/Helper.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/Helper/Helper.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window/Helper
+
+build CMakeFiles/fileTest.dir/window/Helper/KeyShortcuts.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/Helper/KeyShortcuts.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/Helper/KeyShortcuts.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window/Helper
+
+build CMakeFiles/fileTest.dir/window/Helper/KeyTyping.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/Helper/KeyTyping.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/Helper/KeyTyping.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window/Helper
+
+build CMakeFiles/fileTest.dir/window/Helper/MouseEvents.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/Helper/MouseEvents.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/Helper/MouseEvents.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window/Helper
+
+build CMakeFiles/fileTest.dir/window/Helper/State.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/Helper/State.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/Helper/State.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window/Helper
+
+build CMakeFiles/fileTest.dir/window/Application.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/Application.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/Application.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window
+
+build CMakeFiles/fileTest.dir/window/EventHandler.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/EventHandler.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/EventHandler.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window
+
+build CMakeFiles/fileTest.dir/window/GUIComponent.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/GUIComponent.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/GUIComponent.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window
+
+build CMakeFiles/fileTest.dir/window/History.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/History.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/History.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window
+
+build CMakeFiles/fileTest.dir/window/Snapshot.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/Snapshot.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/Snapshot.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window
+
+build CMakeFiles/fileTest.dir/window/SnapshotInterface.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/window/SnapshotInterface.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/window/SnapshotInterface.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/window
+
+build CMakeFiles/fileTest.dir/fonts/Font.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/fonts/Font.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/fonts/Font.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/fonts
+
+build CMakeFiles/fileTest.dir/FileTree/FileTree.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/FileTree/FileTree.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/FileTree/FileTree.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/FileTree
+
+build CMakeFiles/fileTest.dir/FileTree/FileNode.cpp.o: CXX_COMPILER__fileTest_Debug /Users/guan/Desktop/current$ classes/CS008/fileTest/FileTree/FileNode.cpp || cmake_object_order_depends_target_fileTest
+  DEP_FILE = CMakeFiles/fileTest.dir/FileTree/FileNode.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/fileTest.dir/FileTree
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target fileTest
+
+
+#############################################
+# Link the executable fileTest
+
+build fileTest: CXX_EXECUTABLE_LINKER__fileTest_Debug CMakeFiles/fileTest.dir/main.cpp.o CMakeFiles/fileTest.dir/Box.cpp.o CMakeFiles/fileTest.dir/FileTree/FileItem.cpp.o CMakeFiles/fileTest.dir/FileTree/icon/Image.cpp.o CMakeFiles/fileTest.dir/window/Helper/Helper.cpp.o CMakeFiles/fileTest.dir/window/Helper/KeyShortcuts.cpp.o CMakeFiles/fileTest.dir/window/Helper/KeyTyping.cpp.o CMakeFiles/fileTest.dir/window/Helper/MouseEvents.cpp.o CMakeFiles/fileTest.dir/window/Helper/State.cpp.o CMakeFiles/fileTest.dir/window/Application.cpp.o CMakeFiles/fileTest.dir/window/EventHandler.cpp.o CMakeFiles/fileTest.dir/window/GUIComponent.cpp.o CMakeFiles/fileTest.dir/window/History.cpp.o CMakeFiles/fileTest.dir/window/Snapshot.cpp.o CMakeFiles/fileTest.dir/window/SnapshotInterface.cpp.o CMakeFiles/fileTest.dir/fonts/Font.cpp.o CMakeFiles/fileTest.dir/FileTree/FileTree.cpp.o CMakeFiles/fileTest.dir/FileTree/FileNode.cpp.o | /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib /opt/homebrew/lib/libsfml-audio.2.5.1.dylib /opt/homebrew/lib/libsfml-window.2.5.1.dylib /opt/homebrew/lib/libsfml-system.2.5.1.dylib
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2
+  LINK_LIBRARIES = -Wl,-rpath,/opt/homebrew/lib  /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib  /opt/homebrew/lib/libsfml-audio.2.5.1.dylib  /opt/homebrew/lib/libsfml-window.2.5.1.dylib  /opt/homebrew/lib/libsfml-system.2.5.1.dylib
+  OBJECT_DIR = CMakeFiles/fileTest.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = fileTest
+  TARGET_PDB = fileTest.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd "/Users/guan/Desktop/current classes/CS008/fileTest/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build edit_cache: phony CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd "/Users/guan/Desktop/current classes/CS008/fileTest/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/guan/Desktop/current classes/CS008/fileTest" -B"/Users/guan/Desktop/current classes/CS008/fileTest/cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build rebuild_cache: phony CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Target aliases.
+
+# =============================================================================
+# Folder targets.
+
+# =============================================================================
+
+#############################################
+# Folder: /Users/guan/Desktop/current classes/CS008/fileTest/cmake-build-debug
+
+build all: phony fileTest
+
+# =============================================================================
+# Built-in targets
+
+
+#############################################
+# Re-run CMake if any of its inputs changed.
+
+build build.ninja: RERUN_CMAKE | /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/UnixPaths.cmake /Users/guan/Desktop/current$ classes/CS008/fileTest/CMakeLists.txt /opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake /opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake /opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake /opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake /opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake
+  pool = console
+
+
+#############################################
+# A missing CMake input file is not an error.
+
+build /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/UnixPaths.cmake /Users/guan/Desktop/current$ classes/CS008/fileTest/CMakeLists.txt /opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake /opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake /opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake /opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake /opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake: phony
+
+
+#############################################
+# Clean all the built files.
+
+build clean: CLEAN
+
+
+#############################################
+# Print all primary targets available.
+
+build help: HELP
+
+
+#############################################
+# Make the all target the default.
+
+default all

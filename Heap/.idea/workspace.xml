@@ -20,7 +20,133 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="232b2364-f083-445e-8eee-1a5e338afa86" name="Changes" comment="finished" />
+    <list default="true" id="232b2364-f083-445e-8eee-1a5e338afa86" name="Changes" comment="finished">
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/.idea/DropDownMenu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/DropdownMenu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/DropdownMenu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/Helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/Helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/InputBox.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/InputBox.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/Item.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/Item.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/ItemList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/ItemList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/MouseEvents.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/MouseEvents.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8f199f56194385357737.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-0367333f32c52f1758d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1a2f960aba8068dc6852.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-27T10-13-28-0112.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/reply/target-DropDownMenu-Debug-bc40114b64d54e3dfc29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-d1fec8847d7c587f39f7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/DropdownMenu.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/Helper.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/InputBox.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/Item.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/ItemList.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/MouseEvents.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/fonts/Font.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/window/Application.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/DropDownMenu.dir/window/GUIComponent.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/DropDownMenu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/fonts/Font.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/fonts/Font.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/fonts/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/video_link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/window/Application.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/window/Application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/window/GUIComponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DropDownMenu/window/GUIComponent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d8bda0d651e7976cdc88.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4ca0cce0c7031b5ee064.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f53bb870505faff95749.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-30T01-38-00-0889.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/target-test-Debug-0902549c160540b7599d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiText/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiText/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autoCorrect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../autoCorrect/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autoCorrect/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../autoCorrect/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs8_spring23_sfml_calculator/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-19T11-41-41-0544.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cs8_spring23_sfml_calculator/cmake-build-debug/CMakeFiles/cs8_spring23_sfml_calculator.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs8_spring23_sfml_calculator/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../cs8_spring23_sfml_calculator/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a3e4f23af462f3235964.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-3d7e4d0f8beb37c32c27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2e357c2580cbda5f2558.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-22T07-29-56-0398.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/.cmake/api/v1/reply/target-test-Debug-3b683abe9bbca94df8d9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/test" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../test/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679418692992</updated>
-      <workItem from="1679418694094" duration="10126000" />
+      <workItem from="1679418694094" duration="10731000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1679419200602</created>
